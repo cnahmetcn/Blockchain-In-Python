@@ -26,11 +26,12 @@ Build With The Help Of Python And Flask
 
 - Clone this repository `git clone https://github.com/Aman-py/Blockchain-In-Python`
 - After Cloning Repository Just Simply Go In the Folder
-	Example
-    	```bash
-    	$ cd .../Blockchain-In-Python/
-    	$ python3 node.py
-	```
+
+    Example
+    ```bash
+    $ cd .../Blockchain-In-Python/ 
+    $ python3 node.py 
+    ```
 - After Running This U can Simply Open Your Browser And Run Url `http://localhost:5000/#`
 
 ## Result:
