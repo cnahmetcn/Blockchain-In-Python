@@ -42,3 +42,13 @@ Build With The Help Of Python And Flask
 
 ![block1](https://user-images.githubusercontent.com/29687692/45088910-1a215380-b128-11e8-9adb-28001058a2ce.png)
 
+### Open Transaction UI
+
+
+![transaction](https://user-images.githubusercontent.com/29687692/45090582-5e632280-b12d-11e8-81f8-431959939033.png)
+
+### Nodes
+
+
+![nodes](https://user-images.githubusercontent.com/29687692/45089224-1f32d280-b129-11e8-99be-bb97e026a25e.png)
+
