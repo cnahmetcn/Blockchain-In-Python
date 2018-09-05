@@ -19,10 +19,19 @@ Build With The Help Of Python And Flask
 	
 	- Working With Flask And Understanding Restfull API During Reading `node.py` can Be  Boring So Essentially Use Terminal Or any API Service Something Like Postman
 	
-	-Both Network UI and Node UI Both Are in `ui` Folder And Named respectively as `node.html` and `network.html`.
+	- Both Network UI and Node UI Both Are in `ui` Folder And Named respectively as `node.html` and `network.html`.
 
+
+## Procedure:
+
+- Clone this repository `git clone https://github.com/Aman-py/Blockchain-In-Python`
+- After Cloning Repository Just Simply Go In the Folder
+	Example
+    	```bash
+    	$ cd .../Blockchain-In-Python/
+    	$ python3 node.py
+	```
+- After Running This U can Simply Open Your Browser And Run Url `http://localhost:5000/#`
 
 ## Result:
-
-
 
